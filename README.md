@@ -31,7 +31,7 @@ const developer = {
 🌱 Currently diving deep into **open source contributions**  
 💡 Always eager to learn new technologies and best practices  
 🤝 Looking to collaborate on exciting open source projects  
-⚡ Fun fact: **First solve the problem, then write the code!**
+⚡ Fun fact: Engineers still fix glitches on Voyager 1, rewriting code on a spacecraft with less memory than a calculator
 
 ---
 
@@ -143,9 +143,6 @@ I'm always excited to collaborate on interesting projects or just have a chat ab
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
