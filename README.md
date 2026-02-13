@@ -116,16 +116,6 @@ mindmap
 
 
 
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zacktiger&repo=project-name-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/zacktiger/project-name-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zacktiger&repo=project-name-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/zacktiger/project-name-2)
-
-</div>
 
 ---
 
