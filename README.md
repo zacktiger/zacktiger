@@ -92,10 +92,6 @@ const developer = {
 mindmap
   root((Open Source
     Journey))
-    Contributing
-      Bug Fixes
-      Documentation
-      Feature Development
     Learning
       Best Practices
       Code Review
