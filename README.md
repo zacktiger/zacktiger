@@ -144,11 +144,7 @@ I'm always excited to collaborate on interesting projects or just have a chat ab
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
 
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/zacktiger/count.svg)
 
 ---
 
