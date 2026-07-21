@@ -84,36 +84,6 @@ const developer = {
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Open Source
-    Journey))
-    Learning
-      Best Practices
-      Code Review
-      Collaboration
-    Building
-      Full Stack Apps
-      APIs
-      UI Components
-    Growing
-      Community
-      Network
-      Skills
-```
-
-</div>
-
----
-
-
-
-
----
 
 ## 📫 Let's Connect!
 
