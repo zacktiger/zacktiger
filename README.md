@@ -57,10 +57,6 @@ Final-year B.Tech (IoT) student at IIIT Nagpur. Interested in Full stack develop
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zacktiger&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zacktiger&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zacktiger&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7)
 
 </div>
