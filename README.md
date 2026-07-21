@@ -2,7 +2,7 @@
 
 **Software Development Engineer | Full Stack & Backend**
 
-Final-year B.Tech (IoT) student at IIIT Nagpur.
+Final-year B.Tech (IoT) student at IIIT Nagpur. Interested in agentic ai, automated workflows, high performance software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-roan-85.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-bachhav-789a59213/)
