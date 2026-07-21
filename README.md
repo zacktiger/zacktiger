@@ -1,173 +1,85 @@
-<div align="center">
+# Kshitij Bachhav
 
-# 👋 Hey there, I'm Kshitij Bachhav!
+**Software Development Engineer | Full Stack & Backend**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Developer;MERN+Stack+Developer;Open+Source+Contributor;Building+Projects+Every+Week" alt="Typing SVG" />
+Final-year B.Tech (IoT) student at IIIT Nagpur. I build scalable SaaS platforms, real-time systems, and AI-powered applications with React, Node.js, FastAPI, and PostgreSQL. Currently going deep on GenAI and agentic AI engineering.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-roan-85.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-roan-85.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-bachhav-789a59213/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijbachhav005@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=zacktiger&style=for-the-badge&color=blueviolet)
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="700"/>
+## About
 
-</div>
+- Final-year B.Tech (IoT) at IIIT Nagpur, batch 2023 to 2027
+- Full stack and backend developer, building scalable SaaS platforms and real-time systems
+- Currently focused on GenAI and agentic AI engineering: RAG, LangGraph, MCP servers, multi-LLM orchestration
+- 1st place, Technex GameJam 2024 at IIT BHU
+- 200+ DSA problems solved across LeetCode and GeeksforGeeks
 
 ---
 
-# 🚀 About Me
+## Tech Stack
 
-```javascript
-const kshitij = {
-    name: "Kshitij Bachhav",
-    role: "Software Developer",
-    education: "B.Tech ECE (IoT) @ IIIT Nagpur",
-    location: "Maharashtra, India",
-
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "System Design",
-        "Data Structures & Algorithms"
-    ],
-
-    interests: [
-        "Backend Development",
-        "Artificial Intelligence",
-        "Open Source",
-        "Distributed Systems"
-    ],
-
-    motto: "Build. Learn. Repeat."
-};
-```
-
-- 🌱 Currently learning **Full Stack Development, DSA & System Design**
-- 💻 Building modern web applications using the **MERN Stack**
-- 🚀 Passionate about **Backend Engineering, AI Applications & Open Source**
-- 🤝 Open to collaborating on exciting projects and hackathons
-- 🎯 Looking for **Software Engineering Internship Opportunities**
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🎨 Frontend
-
+**Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend
-
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Database
+**Databases and Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚒️ Tools
-
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🌍 **Policast** | AI-powered political prediction platform with real-time forecasting | React • FastAPI • PostgreSQL |
-| 💼 **Portfolio Website** | My personal portfolio showcasing projects and experience | React • Vercel |
-| 🤖 **Open Source** | Building and contributing to open source projects | C++ • Python • JavaScript |
+**PoliCast** — Geopolitical prediction market platform. FastAPI and React, with multi-provider LLM orchestration, SSE-streamed analysis, WebSocket probability updates, and scheduled GDELT/RSS ingestion.
 
-> More exciting projects are on the way 🚀
+**URL Shortener (ksht.in)** — Express, Prisma, PostgreSQL, and Redis. JWT auth, Redis-cached redirects, and rate limiting.
+
+**AlgoViz** — Interactive algorithm visualizer built with React.
+
+**Wildfire Detection** — CNN-based detection system reaching 95%+ accuracy on a Kaggle dataset.
+
+More on my [portfolio](https://portfolio-eta-roan-85.vercel.app/) and in the pinned repos below.
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zacktiger&show_icons=true&theme=radical&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zacktiger&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacktiger&layout=compact&theme=radical&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zacktiger&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zacktiger&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zacktiger&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zacktiger&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7)
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=zacktiger&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-I'm always open to discussing software engineering, open source, AI, or exciting new ideas.
-
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-roan-85.vercel.app/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-bachhav-789a59213/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijbachhav005@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-### ⭐ Thanks for visiting!
-
-*"Code is never finished, only improved."*
-
-</div>
+Open to software engineering internships and SDE roles. Reach me on [LinkedIn](https://www.linkedin.com/in/kshitij-bachhav-789a59213/) or [email](mailto:kshitijbachhav005@gmail.com).
