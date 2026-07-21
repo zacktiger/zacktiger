@@ -2,7 +2,7 @@
 
 **Software Development Engineer | Full Stack & Backend**
 
-Final-year B.Tech (IoT) student at IIIT Nagpur. I build scalable SaaS platforms, real-time systems, and AI-powered applications with React, Node.js, FastAPI, and PostgreSQL. Currently going deep on GenAI and agentic AI engineering.
+Final-year B.Tech (IoT) student at IIIT Nagpur.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-roan-85.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-bachhav-789a59213/)
@@ -10,15 +10,6 @@ Final-year B.Tech (IoT) student at IIIT Nagpur. I build scalable SaaS platforms,
 
 ---
 
-## About
-
-- Final-year B.Tech (IoT) at IIIT Nagpur, batch 2023 to 2027
-- Full stack and backend developer, building scalable SaaS platforms and real-time systems
-- Currently focused on GenAI and agentic AI engineering: RAG, LangGraph, MCP servers, multi-LLM orchestration
-- 1st place, Technex GameJam 2024 at IIT BHU
-- 200+ DSA problems solved across LeetCode and GeeksforGeeks
-
----
 
 ## Tech Stack
 
