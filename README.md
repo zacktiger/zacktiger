@@ -47,15 +47,11 @@ Final-year B.Tech (IoT) student at IIIT Nagpur.
 
 ## Featured Projects
 
-**PoliCast** — Geopolitical prediction market platform. FastAPI and React, with multi-provider LLM orchestration, SSE-streamed analysis, WebSocket probability updates, and scheduled GDELT/RSS ingestion.
-
-**URL Shortener (ksht.in)** — Express, Prisma, PostgreSQL, and Redis. JWT auth, Redis-cached redirects, and rate limiting.
-
-**AlgoViz** — Interactive algorithm visualizer built with React.
-
-**Wildfire Detection** — CNN-based detection system reaching 95%+ accuracy on a Kaggle dataset.
-
-More on my [portfolio](https://portfolio-eta-roan-85.vercel.app/) and in the pinned repos below.
+- [PoliCast](https://github.com/zacktiger/PoliCast)
+- [algo-visualizer](https://github.com/zacktiger/algo-visualizer)
+- [Multi-Tenant-Project-Management-System](https://github.com/zacktiger/Multi-Tenant-Project-Management-System)
+- [Url_shortner](https://github.com/zacktiger/Url_shortner)
+- [Cognimap](https://github.com/zacktiger/Cognimap)
 
 ---
 
