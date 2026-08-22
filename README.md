@@ -57,7 +57,7 @@ Final-year B.Tech (IoT) student at IIIT Nagpur. Interested in Full stack develop
 ---
 
 ## Featured Projects
-
+- [Pulse](https://github.com/zacktiger/Pulse)
 - [PoliCast](https://github.com/zacktiger/PoliCast)
 - [algo-visualizer](https://github.com/zacktiger/algo-visualizer)
 - [Multi-Tenant-Project-Management-System](https://github.com/zacktiger/Multi-Tenant-Project-Management-System)
