@@ -2,7 +2,7 @@
 
 **Software Development Engineer | Full Stack & Backend**
 
-Final-year B.Tech (IoT) student at IIIT Nagpur. Interested in Full stack development, agentic ai, automated workflows, high performance software.
+Final-year B.Tech ECE student at IIIT Nagpur. Interested in Full stack development, agentic ai, automated workflows, high performance software.
 
 ---
 
