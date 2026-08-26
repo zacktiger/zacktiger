@@ -53,6 +53,7 @@ Final-year B.Tech ECE student at IIIT Nagpur. Interested in Full stack developme
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
