@@ -57,12 +57,13 @@ Final-year B.Tech ECE student at IIIT Nagpur. Interested in Full stack developme
 ---
 
 ## Featured Projects
-- [Pulse](https://github.com/zacktiger/Pulse)
+- [Pulse: Social Feed](https://github.com/zacktiger/Pulse)
+- [Flux-Ledger](https://github.com/zacktiger/Flux-ledger)
 - [PoliCast](https://github.com/zacktiger/PoliCast)
 - [algo-visualizer](https://github.com/zacktiger/algo-visualizer)
 - [Multi-Tenant-Project-Management-System](https://github.com/zacktiger/Multi-Tenant-Project-Management-System)
-- [Url_shortner](https://github.com/zacktiger/Url_shortner)
 - [Cognimap](https://github.com/zacktiger/Cognimap)
+- [Url_shortner](https://github.com/zacktiger/Url_shortner)
 
 ---
 
